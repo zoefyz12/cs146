@@ -1,0 +1,1 @@
+Matrix.java is the matrix class used for  calculation. MatrixMultiplicationTest.java is the main java file that contain a simple test. JunitTest.java is the Junit test for Matrix.java.

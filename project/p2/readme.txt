@@ -1,0 +1,1 @@
+QuickSort.java is the main class that contain three types of quick sort. QuickSortTest.java is the class for basis test. QuickSortJunit.java is the calss for Junit test.
